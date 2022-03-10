@@ -4,15 +4,19 @@ body{
 ul{
      list-style-position: inside;
      /* list-style-position: outside;  */ 
-    color: crimson;
+    color: green;
     font-family: sans-serif; 
     /* list-style: square; */
     list-style-type: square;
     margin-left: 20px;
-}
-
+} 
 ol{
     list-style-position: inside;
-    color: blueviolet;
+    color: whitesmoke;;
     margin: 25px;
 }
+/* display
+ul{
+    display: block;
+    visiblitt:hidden;
+} */
