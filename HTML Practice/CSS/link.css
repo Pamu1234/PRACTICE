@@ -1,0 +1,28 @@
+a{
+    color: black;
+    text-decoration: none;
+  }
+a:hover{
+      color: red;
+      background-color: lime;
+      text-decoration: none;
+
+       /* link button: color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block; */
+      
+}
+a:active{
+      color: tomato;
+      background-color: rebeccapurple;
+      text-decoration: none;
+     
+}
+ a:hover{
+     color: palevioletred;
+     background-color: orchid;
+     text-decoration: underline;
+     
+ }

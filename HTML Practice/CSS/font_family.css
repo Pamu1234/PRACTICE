@@ -1,0 +1,64 @@
+body{
+    background-color: burlywood;
+}
+h1.head1{
+    font-family: Arial, sans-serif; 
+    font-style: normal;
+    font-size: 30px;
+     /* 1-Combination of Percent and Em for all headings and para
+        = font-size: 1.5em;
+       2- Responsive Font Size = font-size: 4vw; 
+       3-google font= font-family: "Sofia", sans-serif;*/
+}
+h1.head2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 32px;
+     /* font-size: 1.8em; */
+}
+h1.head3{
+    font-family: Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 34px;
+         /* font-size: 2.0em; */
+
+    font-variant: small-caps;
+}
+h1.head4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: 36px;
+         /* font-size: 2.5em; */
+}
+h1.head5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-size: 40px;
+         /* font-size: 2.8em; */
+}
+p.para1{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+    /* font-size: 1.5em; */   
+}
+p.para2{
+    font-family: sans-serif;
+    font-style:oblique;
+    font-size: 22px;
+}
+p.para3{
+    font-family: serif;
+    font-style: normal;
+    font-size: 24px;
+}
+p.para4{
+    font-family: cursive;
+    font-style: initial;
+    font-size: 28px;
+}
+p.para5{
+    font-family: cursive;
+    font-style: initial;
+    font-size: 2.5vw;
+}
