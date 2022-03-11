@@ -1,0 +1,24 @@
+p{
+    font-size: 200%;
+    color: red;
+}
+ul {
+    
+    list-style-type: none;
+    padding: 14px 16px;    
+    position: sticky;
+    width: 100%;
+    overflow: hidden;
+    
+}
+  
+.list {
+        
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.list:hover {
+    background-color:green;
+  }

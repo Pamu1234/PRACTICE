@@ -1,0 +1,29 @@
+p{
+    font-size: 200%;
+    color: red;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    border: 1px solid #555;    
+    background-color: #f1f1f1;
+}
+/* .list{
+    display: block;
+    width: 90px;
+} */
+.list{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+.list:hover{
+    background-color: #555;
+    color: white;
+}
+

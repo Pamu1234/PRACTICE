@@ -1,0 +1,22 @@
+/* p:first-child{
+    color: green;
+} */
+/* p i:first-child {
+    color:green;
+} */
+/* p:first-child i {
+    color:red;
+} */
+/* first-line Pseudo-element
+p::first-line{
+    color: red;
+    font-variant: small-caps;
+} */
+/* p::first-letter{
+    color: red;
+    font-variant: small-caps;
+} */
+/* p.intro::first-letter {
+    color:rebeccapurple;
+    font-size: 200%;
+}  */

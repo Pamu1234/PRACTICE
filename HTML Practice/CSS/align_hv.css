@@ -1,0 +1,18 @@
+.center{
+    margin: auto;
+    width: 30%;
+    border: 3px solid #73AD21;
+    padding: 50px 0;
+    text-align: center; 
+    position:relative;
+    line-height: 20px;
+  
+    /* to right hand side- right: 0;
+    for image - 
+    .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+  } 
+  for center- justify-content: center;*/
+}
