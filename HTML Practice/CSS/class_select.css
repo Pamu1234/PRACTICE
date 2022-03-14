@@ -1,0 +1,12 @@
+[class|=top]{
+    background-color: red;
+}
+/* [class^="top"] {
+    background: yellow;
+} 
+[class$="test"] {
+    background: yellow;
+}  
+[class*="te"] {
+    background: yellow;
+  } */

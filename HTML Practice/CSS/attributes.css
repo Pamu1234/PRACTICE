@@ -1,0 +1,6 @@
+a[target]{
+    background-color: greenyellow;
+}
+a[target="_blank"]{
+    background-color: red;
+}
