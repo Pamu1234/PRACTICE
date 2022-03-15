@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+  /* To style header */
+.header{
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+body{
+    margin: 0px;
+}
+/* to style navigation bar */
+.topnavigation {
+    overflow: hidden;
+    background-color: #777;
+}
+.topnavigation a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnavigation a:hover {
+    background-color: #ddd;
+    color: black;
+}
+/* for column */
+.column {
+    float: left;
+    width: 30%;
+    padding: 12px;
+}

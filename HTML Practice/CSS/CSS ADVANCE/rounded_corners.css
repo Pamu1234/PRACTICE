@@ -1,0 +1,56 @@
+.rcorners1 {
+    border-radius: 30px;
+
+     /* CSS border-radius - Specify Each Corner 
+    border-radius: 15px 50px; */
+
+        /* elliptical corners:
+    border-radius: 20px / 60px;*/
+    
+
+    background: #73AD21;
+    padding: 20px; 
+    width: 150px;
+    height: 100px;  
+  }
+  
+  #rcorners2 {
+     border-radius: 25px; 
+
+    /* CSS border-radius - Specify Each Corner
+    border-radius: 15px 50px  5px; */
+
+    /* elliptical corners:
+    border-radius: 50px / 15px; */
+
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 150px;
+    height: 100px;  
+  }
+  
+  #rcorners3 {
+    border-radius: 45px; 
+    /* CSS border-radius - Specify Each Corner
+    border-radius: 15px 50px 30px 5px; */
+
+    /* elliptical corners:
+    border-radius: 50px; */
+    
+     background: url(bubble.jpg);
+    border: 2px solid #73ab25;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 150px;
+    height: 100px
+
+    /* An image as a border:
+     border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(bubble.jpg) 20 round or 20% round; 
+    
+     the middle sections of the image are stretched to create the border:
+      border-image: url(border.png) 30 stretch;
+    */
+  }

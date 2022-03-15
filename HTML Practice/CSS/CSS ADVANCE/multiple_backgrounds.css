@@ -1,0 +1,17 @@
+#example1{
+    background-image: url(bubble.jpg), url(gray_paper.webp);
+    background-size: 800px 600px;    /*background-size property  */
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;    
+    padding: 10px;
+}    
+
+/* Short-hand command for multiple background
+#example1{
+
+    background: url(bubble.jpg) right bottom no-repeat, url(gray_paper.webp) left top repeat;
+    padding: 10px;
+      background-size: 50px, 130px, auto;
+
+}  */
+

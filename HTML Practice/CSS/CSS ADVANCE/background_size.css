@@ -1,0 +1,27 @@
+.div1 {
+    border: 1px solid black;
+    height: 120px;
+    width: 150px;
+    background: url(tree.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 50px, 130px, auto;
+    
+  }
+  
+  .div2 {
+    border: 1px solid black;
+    height: 120px;
+    width: 150px;
+    background: url(tree.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  
+  .div3 {
+    border: 1px solid black;
+    height: 120px;
+    width: 150px;
+    background: url(tree.jpg);
+    background-repeat: no-repeat;
+  }
