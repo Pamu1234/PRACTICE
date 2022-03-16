@@ -1,0 +1,30 @@
+/* Direction Top to bottom */
+#grad1{
+        height: 150px;
+        width: 90%;
+    background-image: linear-gradient(red, blue);
+}
+
+/* Direction - Left to Right */
+/* #grad1{
+    height: 150px;
+    width: 90%;
+    background-image: linear-gradient(to right,  red, blue);
+} */
+/* Direction - Diagonal */
+/* #grad1{
+    height: 160px;
+    background-image: linear-gradient(to bottom right, red, yellow);
+    
+} */
+/* Multiple colors */
+/* #grad1{
+    height: 160px;
+    background-image: linear-gradient(green, red, yellow);
+    
+} */
+/* Repeating a linear-gradient */
+/* #grad1{
+    height: 160px;
+    background-image:repeating-linear-gradient(green 5%, red 10%, yellow 10%);
+} */

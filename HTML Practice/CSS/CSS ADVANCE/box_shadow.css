@@ -1,0 +1,11 @@
+div{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 17px;
+    background-color: green;
+    box-shadow: 2px 3px 4px 5px blue /*inset*/;
+
+    /* multiple shadow */
+    /* box-shadow: 2px 3px red, 4px 6px lightcoral, 5px 6px blue; */
+}

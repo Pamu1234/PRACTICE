@@ -1,0 +1,46 @@
+/* 1-translate() Method =  moves an element from its current position */
+/* div {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    transform: translate(50px, 40px);
+} */
+
+/* 2-The rotate() Method = rotates an element clockwise or counter-clockwise according to a given degree */
+/* div {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    transform: rotate(10deg); /*or -10deg
+} */
+/* The scale() Method =  increases or decreases the size of an element */
+/* div {
+    margin: 120px;
+    width: 130px;
+    height: 70px;
+    background-color: green;
+    border: 1px solid black;
+    transform: scale(2,3); /*  0.5 0.5*/
+    /* transform: scaleX(2);   scaleX() method increases or decreases the width of an element*/
+    /* transform: scaleY(4); scaleY() increases or decreases the height of an element 
+}    */
+
+div {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    transform: skew(10deg, 20deg);/* skew() method skews an element into a given angle*/
+    /* transform: skewX(10deg); */
+    /* transform: skewY(10deg); */
+}
+/* div{
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    transform: matrix(1, -0.3, 0, 1, 0, 0);
+} */
+  

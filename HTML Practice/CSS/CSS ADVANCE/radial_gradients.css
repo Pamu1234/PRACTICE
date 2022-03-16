@@ -1,0 +1,23 @@
+/* #grad1{
+    background-image: radial-gradient(red, yellow, green);
+    width: 100%;
+    height: 150px;
+} */
+/*  Differently Spaced Color Stops */
+/* #grad1{
+    background-image: radial-gradient(red 5%, yellow 15%, green 60%);
+    width: 100%;
+    height: 150px;
+} */
+/* Set Shape */
+/* #grad1{
+    background-image: radial-gradient(circle, red, yellow, green);
+    width: 100%;
+    height: 150px;
+} */
+/* #grad1{
+    height: 255px;
+    width: 30%;
+    background-image: repeating-radial-gradient(red, yellow 10%, green 15%);  
+} */
+
