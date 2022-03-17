@@ -1,0 +1,18 @@
+div {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+  /* rotateX() Method */
+#myDiv {
+    transform: rotateX(150deg);
+}
+    /* rotateY() Method */
+/* #myDiv {
+    transform: rotateY(150deg);
+} */
+     /* rotateZ() Method */
+/* #myDiv {
+    transform: rotateZ(90deg);
+} */

@@ -1,0 +1,22 @@
+div {
+    width: 100px;
+    height: 150px;
+    background: orangered;
+    transition-delay: 1s;
+    transition: width 4s, height 3s, transform 2s;
+}
+  
+div:hover {
+    width: 300px;
+     height: 200px; 
+}
+/* timing-function Property */
+/* #div1 {
+    transition-timing-function: ease-out;
+}
+#div2 {
+    transition-timing-function: ease;
+}
+#div3 {
+    transition-timing-function: ease-in;
+} */
